@@ -1,0 +1,13 @@
+
+
+
+Step 1: Start start redis database server from git repo
+	-> https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100
+	-> download to local
+	-> start redis-server.exe
+	
+Step 2: To connenct redis server to redis GUI https://redis.io/download/
+ 	-> add localhost in to GUI: 127.0.0.1:6379 to connect redid to GUI
+ 	
+Step 3: config RedisConfig
+
